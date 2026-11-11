@@ -1,7 +1,6 @@
 # Red Hot Sweet Pepper
 Show case demo for 2D Navigation Click-To-Move top down game with NavMeshAgents
 
-![thumbnail](https://github.com/h8man/RedHotSweetPepper/blob/master/RHCP-thumbnail.png)
 
 # Info
 Using: [NavMeshPlus](https://github.com/h8man/NavMeshPlus)
